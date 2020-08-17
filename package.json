@@ -1,0 +1,23 @@
+{
+  "name": "acos-labs",
+  "version": "1.0.0",
+  "description": "Content type for lab exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cskamil/acos-labs.git"
+  },
+  "author": "Kamil Akhuseyinoglu, Jordan Barria-Pineda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cskamil/acos-labs/issues"
+  },
+  "homepage": "https://github.com/cskamil/acos-labs#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "htmlencode": "0.0.4"
+  }
+}
